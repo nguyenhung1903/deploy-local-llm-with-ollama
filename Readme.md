@@ -214,7 +214,7 @@ ollama create tiger -f tiger_model_file
 
 Chạy mô hình.
 ```
-ollama run example
+ollama run tiger
 ```
 
 ## References

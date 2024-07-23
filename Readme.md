@@ -1,7 +1,7 @@
 # Hướng dẫn thiết lập môi trường triển khai mô hình ngôn ngữ lớn (LLM)
 Hiện nay có nhiều phương pháp để triển khai chạy các mô hình ngôn ngữ lớn trên máy tính, tuy nhiên để tối ưu về mặt tốc độ và hiệu suất máy tính chạy các mô hình ngôn ngữ lớn. Trong bài hướng dẫn này chủ yếu hướng dẫn về cách thức triển khai bằng `Ollama`.
 
-![Ollama vs llama-cpp](assets\images\1714556917693.png)
+![Ollama vs llama-cpp](assets/images/1714556917693.png)
 
 
 Thông tin tổng quan về kích thước của mô hình đã được triển khai trên Ollama.
@@ -64,7 +64,7 @@ $ ollama run gemma:2b
 ```
 
 Dưới đây là ví dụ:
-![](assets\images\example.png)
+![](assets/images/example.png)
 
 
 Quá trình tải mô hình có thể mất chút thời gian!!!!, vui lòng đợi nha!

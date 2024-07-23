@@ -192,7 +192,7 @@ echo "FROM ~/models/f16.bin" > "~/models/modelfile"
 ollama create "Mistral-Instruct-v0.3:7b" -f "~/models/modelfile"
 ```
 
-Hoặc nếu mọi người không thích dùng Ollama, thì hoàn toán có thể sử dụng python để chuyển đổi nha!! (Dùng `unsloth` package đó!!!)
+Hoặc nếu mọi người không thích dùng Ollama, thì hoàn toàn có thể sử dụng python để chuyển đổi nha!! (Dùng `unsloth` package đó!!!)
 
 ```python
 from unsloth import FastLanguageModel
